@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Suite">
+ 
+ <listeners>
+	<listener class-name="utilities.ExtentManager"/>
+	
+</listeners>
+
+  <test thread-count="5" name="Staging.CelebratixTest">
+  
+  <parameter name="browser" value="edge"/>
+  
+  
+    <classes>
+      <class name="testCases.TC_001_HomePageTest"/> 
+       <class name="testCases.TC_002_ExistingUser_LoginTest"/>
+       <class name="testCases.TC_004_MyAccountPageTest"/>
+
+
+
+     <!-- <class name="testCases.TC_003_LoginDDT"/>-->
+
+      
+      
+    </classes>
+  </test> <!-- Test -->
+</suite> <!-- Suite -->

@@ -1,0 +1,70 @@
+10:15:27.094 [main] INFO  testCases.TC_004_MyAccountPageTest - *** Starting TC_004_MyAccountPageTest***
+10:15:27.102 [main] INFO  testCases.TC_004_MyAccountPageTest - User Clicked on Login Link
+10:15:30.530 [main] INFO  testCases.TC_004_MyAccountPageTest - User enter valid Email & Password details
+10:15:31.046 [main] INFO  testCases.TC_004_MyAccountPageTest - User Clicked on Login Button
+10:15:31.046 [main] INFO  testCases.TC_004_MyAccountPageTest - User Successfully logged in My Account Page
+10:15:33.588 [main] INFO  testCases.TC_004_MyAccountPageTest - User able to see the My Account message in Right side top of the corner page
+10:15:33.610 [main] INFO  testCases.TC_004_MyAccountPageTest - User able to see the Venue Link by Selected default
+10:15:33.610 [main] INFO  testCases.TC_004_MyAccountPageTest - *** Finished TC_004_MyAccountPageTest ***
+12:31:43.671 [main] INFO  testCases.TC_005_SearchVenueTest - *** Starting TC_005_SearchVenueTest ***
+08:38:49.311 [main] INFO  testCases.TC_005_SearchVenueTest - *** Starting TC_005_SearchVenueTest ***
+08:38:49.345 [main] INFO  testCases.TC_005_SearchVenueTest - User Clicked on Login Link
+08:38:53.449 [main] INFO  testCases.TC_005_SearchVenueTest - User enter valid Email & Password details
+08:38:53.805 [main] INFO  testCases.TC_005_SearchVenueTest - User Clicked on Login Button
+08:38:53.806 [main] INFO  testCases.TC_005_SearchVenueTest - User Successfully logged in My Account Page
+08:41:10.052 [main] INFO  testCases.TC_005_SearchVenueTest - *** Starting TC_005_SearchVenueTest ***
+08:41:10.090 [main] INFO  testCases.TC_005_SearchVenueTest - User Clicked on Login Link
+08:41:13.984 [main] INFO  testCases.TC_005_SearchVenueTest - User enter valid Email & Password details
+08:41:14.453 [main] INFO  testCases.TC_005_SearchVenueTest - User Clicked on Login Button
+08:41:14.453 [main] INFO  testCases.TC_005_SearchVenueTest - User Successfully logged in My Account Page
+08:45:37.717 [main] INFO  testCases.TC_005_SearchVenueTest - *** Starting TC_005_SearchVenueTest ***
+08:45:37.752 [main] INFO  testCases.TC_005_SearchVenueTest - User Clicked on Login Link
+08:45:41.043 [main] INFO  testCases.TC_005_SearchVenueTest - User enter valid Email & Password details
+08:45:41.780 [main] INFO  testCases.TC_005_SearchVenueTest - User Clicked on Login Button
+08:45:41.781 [main] INFO  testCases.TC_005_SearchVenueTest - User Successfully logged in My Account Page
+08:47:04.570 [main] INFO  testCases.TC_005_SearchVenueTest - *** Starting TC_005_SearchVenueTest ***
+08:47:04.604 [main] INFO  testCases.TC_005_SearchVenueTest - User Clicked on Login Link
+08:47:07.988 [main] INFO  testCases.TC_005_SearchVenueTest - User enter valid Email & Password details
+08:47:08.416 [main] INFO  testCases.TC_005_SearchVenueTest - User Clicked on Login Button
+08:47:08.416 [main] INFO  testCases.TC_005_SearchVenueTest - User Successfully logged in My Account Page
+09:22:55.887 [main] INFO  testCases.TC_005_SearchVenueTest - *** Starting TC_005_SearchVenueTest ***
+09:22:55.923 [main] INFO  testCases.TC_005_SearchVenueTest - User Clicked on Login Link
+09:22:58.691 [main] INFO  testCases.TC_005_SearchVenueTest - User enter valid Email & Password details
+09:22:59.182 [main] INFO  testCases.TC_005_SearchVenueTest - User Clicked on Login Button
+09:22:59.182 [main] INFO  testCases.TC_005_SearchVenueTest - User Successfully logged in My Account Page
+09:58:37.245 [main] INFO  testCases.TC_005_SearchVenueTest - *** Starting TC_005_SearchVenueTest ***
+09:58:37.287 [main] INFO  testCases.TC_005_SearchVenueTest - User Clicked on Login Link
+09:58:40.468 [main] INFO  testCases.TC_005_SearchVenueTest - User enter valid Email & Password details
+09:58:41.057 [main] INFO  testCases.TC_005_SearchVenueTest - User Clicked on Login Button
+09:58:41.057 [main] INFO  testCases.TC_005_SearchVenueTest - User Successfully logged in My Account Page
+12:43:42.149 [main] INFO  testCases.TC_002_ExistingUser_LoginTest - *** Starting TC_002_ExistingUser_LoginTest ***
+12:43:46.751 [main] INFO  testCases.TC_002_ExistingUser_LoginTest - User Clicked on Login Link
+12:43:46.751 [main] INFO  testCases.TC_002_ExistingUser_LoginTest - User enter valid Email & Password details
+12:43:47.341 [main] INFO  testCases.TC_002_ExistingUser_LoginTest - User Clicked on Login Button
+12:43:49.826 [main] INFO  testCases.TC_002_ExistingUser_LoginTest - Successfully User Logged In
+12:43:49.826 [main] INFO  testCases.TC_002_ExistingUser_LoginTest - *** Finished TC_002_ExistingUser_LoginTest ***
+12:44:22.149 [main] INFO  testCases.TC_004_MyAccountPageTest - *** Starting TC_004_MyAccountPageTest***
+12:44:22.149 [main] INFO  testCases.TC_004_MyAccountPageTest - User Clicked on Login Link
+12:44:26.713 [main] INFO  testCases.TC_004_MyAccountPageTest - User enter valid Email & Password details
+12:44:27.330 [main] INFO  testCases.TC_004_MyAccountPageTest - User Clicked on Login Button
+12:44:27.330 [main] INFO  testCases.TC_004_MyAccountPageTest - User Successfully logged in My Account Page
+12:44:29.871 [main] INFO  testCases.TC_004_MyAccountPageTest - User able to see the My Account message in Right side top of the corner page
+12:44:29.874 [main] INFO  testCases.TC_004_MyAccountPageTest - User able to see the Venue Link by Selected default
+12:44:29.874 [main] INFO  testCases.TC_004_MyAccountPageTest - *** Finished TC_004_MyAccountPageTest ***
+13:04:42.011 [main] INFO  testCases.TC_002_ExistingUser_LoginTest - *** Starting TC_002_ExistingUser_LoginTest ***
+13:06:25.149 [main] INFO  testCases.TC_002_ExistingUser_LoginTest - *** Starting TC_002_ExistingUser_LoginTest ***
+13:06:56.388 [main] INFO  testCases.TC_002_ExistingUser_LoginTest - User Clicked on Login Link
+13:06:56.388 [main] INFO  testCases.TC_002_ExistingUser_LoginTest - User enter valid Email & Password details
+13:07:32.074 [main] INFO  testCases.TC_002_ExistingUser_LoginTest - User Clicked on Login Button
+13:11:15.951 [main] INFO  testCases.TC_002_ExistingUser_LoginTest - *** Starting TC_002_ExistingUser_LoginTest ***
+13:11:22.922 [main] INFO  testCases.TC_002_ExistingUser_LoginTest - User Clicked on Login Link
+13:11:22.922 [main] INFO  testCases.TC_002_ExistingUser_LoginTest - User enter valid Email & Password details
+13:11:23.761 [main] INFO  testCases.TC_002_ExistingUser_LoginTest - User Clicked on Login Button
+13:11:28.111 [main] INFO  testCases.TC_002_ExistingUser_LoginTest - Successfully User Logged In
+13:11:28.111 [main] INFO  testCases.TC_002_ExistingUser_LoginTest - *** Finished TC_002_ExistingUser_LoginTest ***
+13:18:03.562 [main] INFO  testCases.TC_002_ExistingUser_LoginTest - *** Starting TC_002_ExistingUser_LoginTest ***
+13:18:21.319 [main] INFO  testCases.TC_002_ExistingUser_LoginTest - User Clicked on Login Link
+13:18:21.320 [main] INFO  testCases.TC_002_ExistingUser_LoginTest - User enter valid Email & Password details
+13:18:24.870 [main] INFO  testCases.TC_002_ExistingUser_LoginTest - User Clicked on Login Button
+13:18:41.007 [main] INFO  testCases.TC_002_ExistingUser_LoginTest - Successfully User Logged In
+13:18:41.007 [main] INFO  testCases.TC_002_ExistingUser_LoginTest - *** Finished TC_002_ExistingUser_LoginTest ***

@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="6" passed="6" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2023-08-02T12:42:40 IST" name="Suite" finished-at="2023-08-02T12:44:34 IST" duration-ms="113849">
+    <groups>
+    </groups>
+    <test started-at="2023-08-02T12:42:40 IST" name="Staging.CelebratixTest" finished-at="2023-08-02T12:44:34 IST" duration-ms="113849">
+      <class name="testCases.TC_004_MyAccountPageTest">
+        <test-method is-config="true" signature="setup(java.lang.String)[pri:0, instance:testCases.TC_004_MyAccountPageTest@514646ef]" started-at="2023-08-02T12:43:50 IST" name="setup" finished-at="2023-08-02T12:44:22 IST" duration-ms="31841" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[edge]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="verifyMyAccount()[pri:1, instance:testCases.TC_004_MyAccountPageTest@514646ef]" started-at="2023-08-02T12:44:22 IST" name="verifyMyAccount" finished-at="2023-08-02T12:44:29 IST" duration-ms="7723" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyMyAccount -->
+        <test-method signature="verifySelectedVenueLink()[pri:2, instance:testCases.TC_004_MyAccountPageTest@514646ef]" started-at="2023-08-02T12:44:29 IST" name="verifySelectedVenueLink" finished-at="2023-08-02T12:44:29 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifySelectedVenueLink -->
+        <test-method signature="testVenueSearch()[pri:3, instance:testCases.TC_004_MyAccountPageTest@514646ef]" started-at="2023-08-02T12:44:29 IST" name="testVenueSearch" finished-at="2023-08-02T12:44:34 IST" duration-ms="4178" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testVenueSearch -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:testCases.TC_004_MyAccountPageTest@514646ef]" started-at="2023-08-02T12:44:34 IST" name="tearDown" finished-at="2023-08-02T12:44:34 IST" duration-ms="594" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- testCases.TC_004_MyAccountPageTest -->
+      <class name="testCases.TC_002_ExistingUser_LoginTest">
+        <test-method is-config="true" signature="setup(java.lang.String)[pri:0, instance:testCases.TC_002_ExistingUser_LoginTest@73eb439a]" started-at="2023-08-02T12:43:26 IST" name="setup" finished-at="2023-08-02T12:43:42 IST" duration-ms="15433" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[edge]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="test_login()[pri:0, instance:testCases.TC_002_ExistingUser_LoginTest@73eb439a]" started-at="2023-08-02T12:43:42 IST" name="test_login" finished-at="2023-08-02T12:43:49 IST" duration-ms="7711" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test_login -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:testCases.TC_002_ExistingUser_LoginTest@73eb439a]" started-at="2023-08-02T12:43:49 IST" name="tearDown" finished-at="2023-08-02T12:43:50 IST" duration-ms="477" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- testCases.TC_002_ExistingUser_LoginTest -->
+      <class name="testCases.TC_001_HomePageTest">
+        <test-method is-config="true" signature="setup(java.lang.String)[pri:0, instance:testCases.TC_001_HomePageTest@17fc391b]" started-at="2023-08-02T12:42:41 IST" name="setup" finished-at="2023-08-02T12:43:25 IST" duration-ms="44544" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[edge]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="verifyLogo()[pri:1, instance:testCases.TC_001_HomePageTest@17fc391b]" started-at="2023-08-02T12:43:25 IST" name="verifyLogo" finished-at="2023-08-02T12:43:26 IST" duration-ms="326" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyLogo -->
+        <test-method signature="verifyTitle()[pri:2, instance:testCases.TC_001_HomePageTest@17fc391b]" started-at="2023-08-02T12:43:26 IST" name="verifyTitle" finished-at="2023-08-02T12:43:26 IST" duration-ms="31" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyTitle -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:testCases.TC_001_HomePageTest@17fc391b]" started-at="2023-08-02T12:43:26 IST" name="tearDown" finished-at="2023-08-02T12:43:26 IST" duration-ms="478" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- testCases.TC_001_HomePageTest -->
+    </test> <!-- Staging.CelebratixTest -->
+  </suite> <!-- Suite -->
+</testng-results>
