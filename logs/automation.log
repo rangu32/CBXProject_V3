@@ -1,70 +1,304 @@
-10:15:27.094 [main] INFO  testCases.TC_004_MyAccountPageTest - *** Starting TC_004_MyAccountPageTest***
-10:15:27.102 [main] INFO  testCases.TC_004_MyAccountPageTest - User Clicked on Login Link
-10:15:30.530 [main] INFO  testCases.TC_004_MyAccountPageTest - User enter valid Email & Password details
-10:15:31.046 [main] INFO  testCases.TC_004_MyAccountPageTest - User Clicked on Login Button
-10:15:31.046 [main] INFO  testCases.TC_004_MyAccountPageTest - User Successfully logged in My Account Page
-10:15:33.588 [main] INFO  testCases.TC_004_MyAccountPageTest - User able to see the My Account message in Right side top of the corner page
-10:15:33.610 [main] INFO  testCases.TC_004_MyAccountPageTest - User able to see the Venue Link by Selected default
-10:15:33.610 [main] INFO  testCases.TC_004_MyAccountPageTest - *** Finished TC_004_MyAccountPageTest ***
-12:31:43.671 [main] INFO  testCases.TC_005_SearchVenueTest - *** Starting TC_005_SearchVenueTest ***
-08:38:49.311 [main] INFO  testCases.TC_005_SearchVenueTest - *** Starting TC_005_SearchVenueTest ***
-08:38:49.345 [main] INFO  testCases.TC_005_SearchVenueTest - User Clicked on Login Link
-08:38:53.449 [main] INFO  testCases.TC_005_SearchVenueTest - User enter valid Email & Password details
-08:38:53.805 [main] INFO  testCases.TC_005_SearchVenueTest - User Clicked on Login Button
-08:38:53.806 [main] INFO  testCases.TC_005_SearchVenueTest - User Successfully logged in My Account Page
-08:41:10.052 [main] INFO  testCases.TC_005_SearchVenueTest - *** Starting TC_005_SearchVenueTest ***
-08:41:10.090 [main] INFO  testCases.TC_005_SearchVenueTest - User Clicked on Login Link
-08:41:13.984 [main] INFO  testCases.TC_005_SearchVenueTest - User enter valid Email & Password details
-08:41:14.453 [main] INFO  testCases.TC_005_SearchVenueTest - User Clicked on Login Button
-08:41:14.453 [main] INFO  testCases.TC_005_SearchVenueTest - User Successfully logged in My Account Page
-08:45:37.717 [main] INFO  testCases.TC_005_SearchVenueTest - *** Starting TC_005_SearchVenueTest ***
-08:45:37.752 [main] INFO  testCases.TC_005_SearchVenueTest - User Clicked on Login Link
-08:45:41.043 [main] INFO  testCases.TC_005_SearchVenueTest - User enter valid Email & Password details
-08:45:41.780 [main] INFO  testCases.TC_005_SearchVenueTest - User Clicked on Login Button
-08:45:41.781 [main] INFO  testCases.TC_005_SearchVenueTest - User Successfully logged in My Account Page
-08:47:04.570 [main] INFO  testCases.TC_005_SearchVenueTest - *** Starting TC_005_SearchVenueTest ***
-08:47:04.604 [main] INFO  testCases.TC_005_SearchVenueTest - User Clicked on Login Link
-08:47:07.988 [main] INFO  testCases.TC_005_SearchVenueTest - User enter valid Email & Password details
-08:47:08.416 [main] INFO  testCases.TC_005_SearchVenueTest - User Clicked on Login Button
-08:47:08.416 [main] INFO  testCases.TC_005_SearchVenueTest - User Successfully logged in My Account Page
-09:22:55.887 [main] INFO  testCases.TC_005_SearchVenueTest - *** Starting TC_005_SearchVenueTest ***
-09:22:55.923 [main] INFO  testCases.TC_005_SearchVenueTest - User Clicked on Login Link
-09:22:58.691 [main] INFO  testCases.TC_005_SearchVenueTest - User enter valid Email & Password details
-09:22:59.182 [main] INFO  testCases.TC_005_SearchVenueTest - User Clicked on Login Button
-09:22:59.182 [main] INFO  testCases.TC_005_SearchVenueTest - User Successfully logged in My Account Page
-09:58:37.245 [main] INFO  testCases.TC_005_SearchVenueTest - *** Starting TC_005_SearchVenueTest ***
-09:58:37.287 [main] INFO  testCases.TC_005_SearchVenueTest - User Clicked on Login Link
-09:58:40.468 [main] INFO  testCases.TC_005_SearchVenueTest - User enter valid Email & Password details
-09:58:41.057 [main] INFO  testCases.TC_005_SearchVenueTest - User Clicked on Login Button
-09:58:41.057 [main] INFO  testCases.TC_005_SearchVenueTest - User Successfully logged in My Account Page
-12:43:42.149 [main] INFO  testCases.TC_002_ExistingUser_LoginTest - *** Starting TC_002_ExistingUser_LoginTest ***
-12:43:46.751 [main] INFO  testCases.TC_002_ExistingUser_LoginTest - User Clicked on Login Link
-12:43:46.751 [main] INFO  testCases.TC_002_ExistingUser_LoginTest - User enter valid Email & Password details
-12:43:47.341 [main] INFO  testCases.TC_002_ExistingUser_LoginTest - User Clicked on Login Button
-12:43:49.826 [main] INFO  testCases.TC_002_ExistingUser_LoginTest - Successfully User Logged In
-12:43:49.826 [main] INFO  testCases.TC_002_ExistingUser_LoginTest - *** Finished TC_002_ExistingUser_LoginTest ***
-12:44:22.149 [main] INFO  testCases.TC_004_MyAccountPageTest - *** Starting TC_004_MyAccountPageTest***
-12:44:22.149 [main] INFO  testCases.TC_004_MyAccountPageTest - User Clicked on Login Link
-12:44:26.713 [main] INFO  testCases.TC_004_MyAccountPageTest - User enter valid Email & Password details
-12:44:27.330 [main] INFO  testCases.TC_004_MyAccountPageTest - User Clicked on Login Button
-12:44:27.330 [main] INFO  testCases.TC_004_MyAccountPageTest - User Successfully logged in My Account Page
-12:44:29.871 [main] INFO  testCases.TC_004_MyAccountPageTest - User able to see the My Account message in Right side top of the corner page
-12:44:29.874 [main] INFO  testCases.TC_004_MyAccountPageTest - User able to see the Venue Link by Selected default
-12:44:29.874 [main] INFO  testCases.TC_004_MyAccountPageTest - *** Finished TC_004_MyAccountPageTest ***
-13:04:42.011 [main] INFO  testCases.TC_002_ExistingUser_LoginTest - *** Starting TC_002_ExistingUser_LoginTest ***
-13:06:25.149 [main] INFO  testCases.TC_002_ExistingUser_LoginTest - *** Starting TC_002_ExistingUser_LoginTest ***
-13:06:56.388 [main] INFO  testCases.TC_002_ExistingUser_LoginTest - User Clicked on Login Link
-13:06:56.388 [main] INFO  testCases.TC_002_ExistingUser_LoginTest - User enter valid Email & Password details
-13:07:32.074 [main] INFO  testCases.TC_002_ExistingUser_LoginTest - User Clicked on Login Button
-13:11:15.951 [main] INFO  testCases.TC_002_ExistingUser_LoginTest - *** Starting TC_002_ExistingUser_LoginTest ***
-13:11:22.922 [main] INFO  testCases.TC_002_ExistingUser_LoginTest - User Clicked on Login Link
-13:11:22.922 [main] INFO  testCases.TC_002_ExistingUser_LoginTest - User enter valid Email & Password details
-13:11:23.761 [main] INFO  testCases.TC_002_ExistingUser_LoginTest - User Clicked on Login Button
-13:11:28.111 [main] INFO  testCases.TC_002_ExistingUser_LoginTest - Successfully User Logged In
-13:11:28.111 [main] INFO  testCases.TC_002_ExistingUser_LoginTest - *** Finished TC_002_ExistingUser_LoginTest ***
-13:18:03.562 [main] INFO  testCases.TC_002_ExistingUser_LoginTest - *** Starting TC_002_ExistingUser_LoginTest ***
-13:18:21.319 [main] INFO  testCases.TC_002_ExistingUser_LoginTest - User Clicked on Login Link
-13:18:21.320 [main] INFO  testCases.TC_002_ExistingUser_LoginTest - User enter valid Email & Password details
-13:18:24.870 [main] INFO  testCases.TC_002_ExistingUser_LoginTest - User Clicked on Login Button
-13:18:41.007 [main] INFO  testCases.TC_002_ExistingUser_LoginTest - Successfully User Logged In
-13:18:41.007 [main] INFO  testCases.TC_002_ExistingUser_LoginTest - *** Finished TC_002_ExistingUser_LoginTest ***
+15:50:29.240 [main] INFO  testCases.TC_005_SearchVenueTest - *** Starting TC_005_SearchVenueTest ***
+15:50:29.817 [main] INFO  testCases.TC_005_SearchVenueTest - User Clicked on Login Link
+15:50:34.988 [main] INFO  testCases.TC_005_SearchVenueTest - User enter valid Email & Password details
+15:50:35.505 [main] INFO  testCases.TC_005_SearchVenueTest - User Clicked on Login Button
+15:50:35.505 [main] INFO  testCases.TC_005_SearchVenueTest - User Successfully logged in My Account Page
+15:50:35.509 [main] INFO  testCases.TC_005_SearchVenueTest - Type any venue name in search box
+15:50:38.915 [main] INFO  testCases.TC_005_SearchVenueTest - Click on Search button
+15:50:44.158 [main] INFO  testCases.TC_005_SearchVenueTest - User navigated to search page result
+15:50:44.159 [main] INFO  testCases.TC_005_SearchVenueTest - User clicked on Distance Dropdown
+15:50:47.760 [main] INFO  testCases.TC_005_SearchVenueTest - User clicked on No Limits value from Distance Dropdown
+15:50:52.773 [main] INFO  testCases.TC_005_SearchVenueTest - User is able to see the particular venue (1 0f 1) of search result page
+15:50:58.204 [main] INFO  testCases.TC_005_SearchVenueTest - *** Finished TC_005_SearchVenueTest ***
+15:52:06.074 [main] INFO  testCases.TC_005_SearchVenueTest - *** Starting TC_005_SearchVenueTest ***
+15:52:06.151 [main] INFO  testCases.TC_005_SearchVenueTest - User Clicked on Login Link
+15:52:11.390 [main] INFO  testCases.TC_005_SearchVenueTest - User enter valid Email & Password details
+15:52:12.264 [main] INFO  testCases.TC_005_SearchVenueTest - User Clicked on Login Button
+15:52:12.264 [main] INFO  testCases.TC_005_SearchVenueTest - User Successfully logged in My Account Page
+15:52:12.270 [main] INFO  testCases.TC_005_SearchVenueTest - Type any venue name in search box
+15:52:15.495 [main] INFO  testCases.TC_005_SearchVenueTest - Click on Search button
+15:52:20.629 [main] INFO  testCases.TC_005_SearchVenueTest - User navigated to search page result
+15:52:20.631 [main] INFO  testCases.TC_005_SearchVenueTest - User clicked on Distance Dropdown
+15:52:22.545 [main] INFO  testCases.TC_005_SearchVenueTest - User clicked on No Limits value from Distance Dropdown
+15:52:27.552 [main] INFO  testCases.TC_005_SearchVenueTest - User is able to see the particular venue (1 0f 1) of search result page
+15:53:14.345 [main] INFO  testCases.TC_005_SearchVenueTest - *** Starting TC_005_SearchVenueTest ***
+15:53:14.472 [main] INFO  testCases.TC_005_SearchVenueTest - User Clicked on Login Link
+15:53:23.907 [main] INFO  testCases.TC_005_SearchVenueTest - User enter valid Email & Password details
+15:53:24.758 [main] INFO  testCases.TC_005_SearchVenueTest - User Clicked on Login Button
+15:53:24.759 [main] INFO  testCases.TC_005_SearchVenueTest - User Successfully logged in My Account Page
+15:53:24.774 [main] INFO  testCases.TC_005_SearchVenueTest - Type any venue name in search box
+15:53:28.992 [main] INFO  testCases.TC_005_SearchVenueTest - Click on Search button
+15:53:34.112 [main] INFO  testCases.TC_005_SearchVenueTest - User navigated to search page result
+15:53:34.112 [main] INFO  testCases.TC_005_SearchVenueTest - User clicked on Distance Dropdown
+15:53:35.504 [main] INFO  testCases.TC_005_SearchVenueTest - User clicked on No Limits value from Distance Dropdown
+15:53:40.519 [main] INFO  testCases.TC_005_SearchVenueTest - User is able to see the particular venue (1 0f 1) of search result page
+15:53:45.871 [main] INFO  testCases.TC_005_SearchVenueTest - *** Finished TC_005_SearchVenueTest ***
+15:54:59.358 [main] INFO  testCases.TC_005_SearchVenueTest - *** Starting TC_005_SearchVenueTest ***
+15:54:59.438 [main] INFO  testCases.TC_005_SearchVenueTest - User Clicked on Login Link
+15:55:03.823 [main] INFO  testCases.TC_005_SearchVenueTest - User enter valid Email & Password details
+15:55:04.450 [main] INFO  testCases.TC_005_SearchVenueTest - User Clicked on Login Button
+15:55:04.450 [main] INFO  testCases.TC_005_SearchVenueTest - User Successfully logged in My Account Page
+15:55:04.467 [main] INFO  testCases.TC_005_SearchVenueTest - Type any venue name in search box
+15:55:11.132 [main] INFO  testCases.TC_005_SearchVenueTest - Click on Search button
+15:55:16.287 [main] INFO  testCases.TC_005_SearchVenueTest - User navigated to search page result
+15:55:16.287 [main] INFO  testCases.TC_005_SearchVenueTest - User clicked on Distance Dropdown
+15:55:17.871 [main] INFO  testCases.TC_005_SearchVenueTest - User clicked on No Limits value from Distance Dropdown
+15:55:22.875 [main] INFO  testCases.TC_005_SearchVenueTest - User is able to see the particular venue (1 0f 1) of search result page
+15:55:28.381 [main] INFO  testCases.TC_005_SearchVenueTest - *** Finished TC_005_SearchVenueTest ***
+16:04:37.799 [main] INFO  testCases.TC_005_SearchVenueTest - *** Starting TC_005_SearchVenueTest ***
+16:04:37.904 [main] INFO  testCases.TC_005_SearchVenueTest - User Clicked on Login Link
+16:04:41.828 [main] INFO  testCases.TC_005_SearchVenueTest - User enter valid Email & Password details
+16:04:42.496 [main] INFO  testCases.TC_005_SearchVenueTest - User Clicked on Login Button
+16:04:42.496 [main] INFO  testCases.TC_005_SearchVenueTest - User Successfully logged in My Account Page
+16:04:42.501 [main] INFO  testCases.TC_005_SearchVenueTest - Type any venue name in search box
+16:04:45.381 [main] INFO  testCases.TC_005_SearchVenueTest - Click on Search button
+16:04:50.609 [main] INFO  testCases.TC_005_SearchVenueTest - User navigated to search page result
+16:04:50.610 [main] INFO  testCases.TC_005_SearchVenueTest - User clicked on Distance Dropdown
+16:04:52.250 [main] INFO  testCases.TC_005_SearchVenueTest - User clicked on No Limits value from Distance Dropdown
+16:04:57.252 [main] INFO  testCases.TC_005_SearchVenueTest - User is able to see the particular venue (1 0f 1) of search result page
+16:05:02.886 [main] INFO  testCases.TC_005_SearchVenueTest - *** Finished TC_005_SearchVenueTest ***
+16:08:34.347 [main] INFO  testCases.TC_005_SearchVenueTest - *** Starting TC_005_SearchVenueTest ***
+16:08:34.404 [main] INFO  testCases.TC_005_SearchVenueTest - User Clicked on Login Link
+16:08:38.734 [main] INFO  testCases.TC_005_SearchVenueTest - User enter valid Email & Password details
+16:08:39.414 [main] INFO  testCases.TC_005_SearchVenueTest - User Clicked on Login Button
+16:08:39.415 [main] INFO  testCases.TC_005_SearchVenueTest - User Successfully logged in My Account Page
+16:08:39.422 [main] INFO  testCases.TC_005_SearchVenueTest - Type any venue name in search box
+16:08:44.841 [main] INFO  testCases.TC_005_SearchVenueTest - Click on Search button
+16:08:49.993 [main] INFO  testCases.TC_005_SearchVenueTest - User navigated to search page result
+16:08:49.994 [main] INFO  testCases.TC_005_SearchVenueTest - User clicked on Distance Dropdown
+16:08:51.163 [main] INFO  testCases.TC_005_SearchVenueTest - User clicked on No Limits value from Distance Dropdown
+16:08:56.172 [main] INFO  testCases.TC_005_SearchVenueTest - User is able to see the particular venue (1 0f 1) of search result page
+16:09:01.695 [main] INFO  testCases.TC_005_SearchVenueTest - *** Finished TC_005_SearchVenueTest ***
+16:14:27.440 [main] INFO  testCases.TC_005_SearchVenueTest - *** Starting TC_005_SearchVenueTest ***
+16:14:27.539 [main] INFO  testCases.TC_005_SearchVenueTest - User Clicked on Login Link
+16:14:39.757 [main] INFO  testCases.TC_005_SearchVenueTest - User enter valid Email & Password details
+16:14:40.353 [main] INFO  testCases.TC_005_SearchVenueTest - User Clicked on Login Button
+16:14:40.353 [main] INFO  testCases.TC_005_SearchVenueTest - User Successfully logged in My Account Page
+16:14:40.358 [main] INFO  testCases.TC_005_SearchVenueTest - Type any venue name in search box
+16:14:45.172 [main] INFO  testCases.TC_005_SearchVenueTest - Click on Search button
+16:14:50.399 [main] INFO  testCases.TC_005_SearchVenueTest - User navigated to search page result
+16:14:50.400 [main] INFO  testCases.TC_005_SearchVenueTest - User clicked on Distance Dropdown
+16:15:00.754 [main] INFO  testCases.TC_005_SearchVenueTest - User clicked on No Limits value from Distance Dropdown
+16:15:05.759 [main] INFO  testCases.TC_005_SearchVenueTest - User is able to see the particular venue (1 0f 1) of search result page
+16:15:54.443 [main] INFO  testCases.TC_005_SearchVenueTest - *** Starting TC_005_SearchVenueTest ***
+16:15:54.499 [main] INFO  testCases.TC_005_SearchVenueTest - User Clicked on Login Link
+16:16:01.444 [main] INFO  testCases.TC_005_SearchVenueTest - User enter valid Email & Password details
+16:16:02.123 [main] INFO  testCases.TC_005_SearchVenueTest - User Clicked on Login Button
+16:16:02.123 [main] INFO  testCases.TC_005_SearchVenueTest - User Successfully logged in My Account Page
+16:16:02.127 [main] INFO  testCases.TC_005_SearchVenueTest - Type any venue name in search box
+16:16:08.133 [main] INFO  testCases.TC_005_SearchVenueTest - Click on Search button
+16:16:13.268 [main] INFO  testCases.TC_005_SearchVenueTest - User navigated to search page result
+16:16:13.269 [main] INFO  testCases.TC_005_SearchVenueTest - User clicked on Distance Dropdown
+16:16:14.248 [main] INFO  testCases.TC_005_SearchVenueTest - User clicked on No Limits value from Distance Dropdown
+16:16:19.252 [main] INFO  testCases.TC_005_SearchVenueTest - User is able to see the particular venue (1 0f 1) of search result page
+17:00:27.940 [main] INFO  testCases.TC_005_SearchVenueTest - *** Starting TC_005_SearchVenueTest ***
+17:00:27.987 [main] INFO  testCases.TC_005_SearchVenueTest - User Clicked on Login Link
+17:00:38.753 [main] INFO  testCases.TC_005_SearchVenueTest - User enter valid Email & Password details
+17:00:39.192 [main] INFO  testCases.TC_005_SearchVenueTest - User Clicked on Login Button
+17:00:39.192 [main] INFO  testCases.TC_005_SearchVenueTest - User Successfully logged in My Account Page
+17:00:39.196 [main] INFO  testCases.TC_005_SearchVenueTest - Type any venue name in search box
+17:00:42.938 [main] INFO  testCases.TC_005_SearchVenueTest - Click on Search button
+17:00:48.106 [main] INFO  testCases.TC_005_SearchVenueTest - User navigated to search page result
+17:00:48.107 [main] INFO  testCases.TC_005_SearchVenueTest - User clicked on Distance Dropdown
+17:00:49.396 [main] INFO  testCases.TC_005_SearchVenueTest - User clicked on No Limits value from Distance Dropdown
+17:00:54.400 [main] INFO  testCases.TC_005_SearchVenueTest - User is able to see the particular venue (1 0f 1) of search result page
+17:00:59.749 [main] INFO  testCases.TC_005_SearchVenueTest - *** Finished TC_005_SearchVenueTest ***
+17:05:35.514 [main] INFO  testCases.TC_005_SearchVenueTest - *** Starting TC_005_SearchVenueTest ***
+17:05:35.553 [main] INFO  testCases.TC_005_SearchVenueTest - User Clicked on Login Link
+17:05:52.402 [main] INFO  testCases.TC_005_SearchVenueTest - User enter valid Email & Password details
+17:05:52.900 [main] INFO  testCases.TC_005_SearchVenueTest - User Clicked on Login Button
+17:05:52.900 [main] INFO  testCases.TC_005_SearchVenueTest - User Successfully logged in My Account Page
+17:05:52.904 [main] INFO  testCases.TC_005_SearchVenueTest - Type any venue name in search box
+17:05:58.010 [main] INFO  testCases.TC_005_SearchVenueTest - Click on Search button
+17:06:03.157 [main] INFO  testCases.TC_005_SearchVenueTest - User navigated to search page result
+17:06:03.157 [main] INFO  testCases.TC_005_SearchVenueTest - User clicked on Distance Dropdown
+17:06:04.668 [main] INFO  testCases.TC_005_SearchVenueTest - User clicked on No Limits value from Distance Dropdown
+17:06:09.669 [main] INFO  testCases.TC_005_SearchVenueTest - User is able to see the particular venue (1 0f 1) of search result page
+17:06:15.014 [main] INFO  testCases.TC_005_SearchVenueTest - *** Finished TC_005_SearchVenueTest ***
+17:07:58.195 [main] INFO  testCases.TC_005_SearchVenueTest - *** Starting TC_005_SearchVenueTest ***
+17:07:58.243 [main] INFO  testCases.TC_005_SearchVenueTest - User Clicked on Login Link
+17:08:00.868 [main] INFO  testCases.TC_005_SearchVenueTest - User enter valid Email & Password details
+17:08:01.362 [main] INFO  testCases.TC_005_SearchVenueTest - User Clicked on Login Button
+17:08:01.362 [main] INFO  testCases.TC_005_SearchVenueTest - User Successfully logged in My Account Page
+17:08:01.369 [main] INFO  testCases.TC_005_SearchVenueTest - Type any venue name in search box
+17:08:03.948 [main] INFO  testCases.TC_005_SearchVenueTest - Click on Search button
+17:08:09.061 [main] INFO  testCases.TC_005_SearchVenueTest - User navigated to search page result
+17:08:09.061 [main] INFO  testCases.TC_005_SearchVenueTest - User clicked on Distance Dropdown
+17:08:10.399 [main] INFO  testCases.TC_005_SearchVenueTest - User clicked on No Limits value from Distance Dropdown
+17:08:15.402 [main] INFO  testCases.TC_005_SearchVenueTest - User is able to see the particular venue (1 0f 1) of search result page
+17:08:20.807 [main] INFO  testCases.TC_005_SearchVenueTest - *** Finished TC_005_SearchVenueTest ***
+17:27:55.491 [main] INFO  testCases.TC_005_SearchVenueTest - *** Starting TC_005_SearchVenueTest ***
+17:27:55.548 [main] INFO  testCases.TC_005_SearchVenueTest - User Clicked on Login Link
+17:27:58.716 [main] INFO  testCases.TC_005_SearchVenueTest - User enter valid Email & Password details
+17:27:59.242 [main] INFO  testCases.TC_005_SearchVenueTest - User Clicked on Login Button
+17:27:59.242 [main] INFO  testCases.TC_005_SearchVenueTest - User Successfully logged in My Account Page
+17:27:59.251 [main] INFO  testCases.TC_005_SearchVenueTest - Type any venue name in search box
+17:28:01.913 [main] INFO  testCases.TC_005_SearchVenueTest - Click on Search button
+17:28:07.099 [main] INFO  testCases.TC_005_SearchVenueTest - User navigated to search page result
+17:28:07.099 [main] INFO  testCases.TC_005_SearchVenueTest - User clicked on Distance Dropdown
+17:28:07.879 [main] INFO  testCases.TC_005_SearchVenueTest - User clicked on No Limits value from Distance Dropdown
+17:28:12.893 [main] INFO  testCases.TC_005_SearchVenueTest - User is able to see the particular venue (1 0f 1) of search result page
+17:28:51.472 [main] INFO  testCases.TC_005_SearchVenueTest - *** Starting TC_005_SearchVenueTest ***
+17:28:51.548 [main] INFO  testCases.TC_005_SearchVenueTest - User Clicked on Login Link
+17:28:55.473 [main] INFO  testCases.TC_005_SearchVenueTest - User enter valid Email & Password details
+17:28:56.189 [main] INFO  testCases.TC_005_SearchVenueTest - User Clicked on Login Button
+17:28:56.190 [main] INFO  testCases.TC_005_SearchVenueTest - User Successfully logged in My Account Page
+17:28:56.194 [main] INFO  testCases.TC_005_SearchVenueTest - Type any venue name in search box
+17:29:01.201 [main] INFO  testCases.TC_005_SearchVenueTest - Click on Search button
+17:29:06.333 [main] INFO  testCases.TC_005_SearchVenueTest - User navigated to search page result
+17:29:06.335 [main] INFO  testCases.TC_005_SearchVenueTest - User clicked on Distance Dropdown
+17:29:08.326 [main] INFO  testCases.TC_005_SearchVenueTest - User clicked on No Limits value from Distance Dropdown
+17:29:13.334 [main] INFO  testCases.TC_005_SearchVenueTest - User is able to see the particular venue (1 0f 1) of search result page
+17:29:18.789 [main] INFO  testCases.TC_005_SearchVenueTest - *** Finished TC_005_SearchVenueTest ***
+17:39:15.664 [main] INFO  testCases.TC_005_SearchVenueTest - *** Starting TC_005_SearchVenueTest ***
+17:39:15.705 [main] INFO  testCases.TC_005_SearchVenueTest - User Clicked on Login Link
+17:39:19.208 [main] INFO  testCases.TC_005_SearchVenueTest - User enter valid Email & Password details
+17:39:19.762 [main] INFO  testCases.TC_005_SearchVenueTest - User Clicked on Login Button
+17:39:19.763 [main] INFO  testCases.TC_005_SearchVenueTest - User Successfully logged in My Account Page
+17:39:19.769 [main] INFO  testCases.TC_005_SearchVenueTest - Type any venue name in search box
+17:39:23.249 [main] INFO  testCases.TC_005_SearchVenueTest - Click on Search button
+17:39:28.352 [main] INFO  testCases.TC_005_SearchVenueTest - User navigated to search page result
+17:39:28.353 [main] INFO  testCases.TC_005_SearchVenueTest - User clicked on Distance Dropdown
+17:39:29.375 [main] INFO  testCases.TC_005_SearchVenueTest - User clicked on No Limits value from Distance Dropdown
+17:39:34.383 [main] INFO  testCases.TC_005_SearchVenueTest - User is able to see the particular venue (1 0f 1) of search result page
+17:39:39.766 [main] INFO  testCases.TC_005_SearchVenueTest - *** Finished TC_005_SearchVenueTest ***
+18:07:35.029 [main] INFO  testCases.TC_005_SearchVenueTest - *** Starting TC_005_SearchVenueTest ***
+18:07:35.113 [main] INFO  testCases.TC_005_SearchVenueTest - User Clicked on Login Link
+18:07:39.759 [main] INFO  testCases.TC_005_SearchVenueTest - User enter valid Email & Password details
+18:07:40.626 [main] INFO  testCases.TC_005_SearchVenueTest - User Clicked on Login Button
+18:07:40.627 [main] INFO  testCases.TC_005_SearchVenueTest - User Successfully logged in My Account Page
+18:07:40.632 [main] INFO  testCases.TC_005_SearchVenueTest - Type any venue name in search box
+18:07:43.664 [main] INFO  testCases.TC_005_SearchVenueTest - Click on Search button
+18:07:48.824 [main] INFO  testCases.TC_005_SearchVenueTest - User navigated to search page result
+18:07:48.825 [main] INFO  testCases.TC_005_SearchVenueTest - User clicked on Distance Dropdown
+18:07:49.750 [main] INFO  testCases.TC_005_SearchVenueTest - User clicked on No Limits value from Distance Dropdown
+18:07:54.763 [main] INFO  testCases.TC_005_SearchVenueTest - User is able to see the particular venue (1 0f 1) of search result page
+18:08:00.322 [main] INFO  testCases.TC_005_SearchVenueTest - *** Finished TC_005_SearchVenueTest ***
+18:09:05.851 [main] INFO  testCases.TC_005_SearchVenueTest - *** Starting TC_005_SearchVenueTest ***
+18:09:05.965 [main] INFO  testCases.TC_005_SearchVenueTest - User Clicked on Login Link
+18:09:10.832 [main] INFO  testCases.TC_005_SearchVenueTest - User enter valid Email & Password details
+18:09:11.349 [main] INFO  testCases.TC_005_SearchVenueTest - User Clicked on Login Button
+18:09:11.349 [main] INFO  testCases.TC_005_SearchVenueTest - User Successfully logged in My Account Page
+18:09:11.354 [main] INFO  testCases.TC_005_SearchVenueTest - Type any venue name in search box
+18:09:15.100 [main] INFO  testCases.TC_005_SearchVenueTest - Click on Search button
+18:09:20.236 [main] INFO  testCases.TC_005_SearchVenueTest - User navigated to search page result
+18:09:20.236 [main] INFO  testCases.TC_005_SearchVenueTest - User clicked on Distance Dropdown
+18:09:21.550 [main] INFO  testCases.TC_005_SearchVenueTest - User clicked on No Limits value from Distance Dropdown
+18:09:26.554 [main] INFO  testCases.TC_005_SearchVenueTest - User is able to see the particular venue (1 0f 1) of search result page
+18:10:20.566 [main] INFO  testCases.TC_005_SearchVenueTest - *** Starting TC_005_SearchVenueTest ***
+18:10:20.676 [main] INFO  testCases.TC_005_SearchVenueTest - User Clicked on Login Link
+18:10:24.652 [main] INFO  testCases.TC_005_SearchVenueTest - User enter valid Email & Password details
+18:10:25.222 [main] INFO  testCases.TC_005_SearchVenueTest - User Clicked on Login Button
+18:10:25.222 [main] INFO  testCases.TC_005_SearchVenueTest - User Successfully logged in My Account Page
+18:10:25.226 [main] INFO  testCases.TC_005_SearchVenueTest - Type any venue name in search box
+18:10:28.900 [main] INFO  testCases.TC_005_SearchVenueTest - Click on Search button
+18:10:34.014 [main] INFO  testCases.TC_005_SearchVenueTest - User navigated to search page result
+18:10:34.014 [main] INFO  testCases.TC_005_SearchVenueTest - User clicked on Distance Dropdown
+18:10:34.713 [main] INFO  testCases.TC_005_SearchVenueTest - User clicked on No Limits value from Distance Dropdown
+18:10:39.722 [main] INFO  testCases.TC_005_SearchVenueTest - User is able to see the particular venue (1 0f 1) of search result page
+18:10:45.580 [main] INFO  testCases.TC_005_SearchVenueTest - *** Finished TC_005_SearchVenueTest ***
+18:13:28.087 [main] INFO  testCases.TC_005_SearchVenueTest - *** Starting TC_005_SearchVenueTest ***
+18:13:28.246 [main] INFO  testCases.TC_005_SearchVenueTest - User Clicked on Login Link
+18:13:32.647 [main] INFO  testCases.TC_005_SearchVenueTest - User enter valid Email & Password details
+18:13:33.143 [main] INFO  testCases.TC_005_SearchVenueTest - User Clicked on Login Button
+18:13:33.144 [main] INFO  testCases.TC_005_SearchVenueTest - User Successfully logged in My Account Page
+18:13:33.152 [main] INFO  testCases.TC_005_SearchVenueTest - Type any venue name in search box
+18:13:36.271 [main] INFO  testCases.TC_005_SearchVenueTest - Click on Search button
+18:13:41.508 [main] INFO  testCases.TC_005_SearchVenueTest - User navigated to search page result
+18:13:41.508 [main] INFO  testCases.TC_005_SearchVenueTest - User clicked on Distance Dropdown
+18:13:42.689 [main] INFO  testCases.TC_005_SearchVenueTest - User clicked on No Limits value from Distance Dropdown
+18:13:47.699 [main] INFO  testCases.TC_005_SearchVenueTest - User is able to see the particular venue (1 0f 1) of search result page
+18:13:53.299 [main] INFO  testCases.TC_005_SearchVenueTest - *** Finished TC_005_SearchVenueTest ***
+18:17:37.457 [main] INFO  testCases.TC_005_SearchVenueTest - *** Starting TC_005_SearchVenueTest ***
+18:17:37.510 [main] INFO  testCases.TC_005_SearchVenueTest - User Clicked on Login Link
+18:17:41.279 [main] INFO  testCases.TC_005_SearchVenueTest - User enter valid Email & Password details
+18:17:41.854 [main] INFO  testCases.TC_005_SearchVenueTest - User Clicked on Login Button
+18:17:41.854 [main] INFO  testCases.TC_005_SearchVenueTest - User Successfully logged in My Account Page
+18:17:41.858 [main] INFO  testCases.TC_005_SearchVenueTest - Type any venue name in search box
+18:17:46.246 [main] INFO  testCases.TC_005_SearchVenueTest - Click on Search button
+18:17:51.406 [main] INFO  testCases.TC_005_SearchVenueTest - User navigated to search page result
+18:17:51.406 [main] INFO  testCases.TC_005_SearchVenueTest - User clicked on Distance Dropdown
+18:17:52.133 [main] INFO  testCases.TC_005_SearchVenueTest - User clicked on No Limits value from Distance Dropdown
+18:17:57.145 [main] INFO  testCases.TC_005_SearchVenueTest - User is able to see the particular venue (1 0f 1) of search result page
+18:21:21.240 [main] INFO  testCases.TC_005_SearchVenueTest - *** Starting TC_005_SearchVenueTest ***
+18:21:21.301 [main] INFO  testCases.TC_005_SearchVenueTest - User Clicked on Login Link
+18:21:24.728 [main] INFO  testCases.TC_005_SearchVenueTest - User enter valid Email & Password details
+18:21:25.348 [main] INFO  testCases.TC_005_SearchVenueTest - User Clicked on Login Button
+18:21:25.348 [main] INFO  testCases.TC_005_SearchVenueTest - User Successfully logged in My Account Page
+18:21:25.352 [main] INFO  testCases.TC_005_SearchVenueTest - Type any venue name in search box
+18:21:28.637 [main] INFO  testCases.TC_005_SearchVenueTest - Click on Search button
+18:21:33.756 [main] INFO  testCases.TC_005_SearchVenueTest - User navigated to search page result
+18:21:33.756 [main] INFO  testCases.TC_005_SearchVenueTest - User clicked on Distance Dropdown
+18:21:34.685 [main] INFO  testCases.TC_005_SearchVenueTest - User clicked on No Limits value from Distance Dropdown
+18:21:39.700 [main] INFO  testCases.TC_005_SearchVenueTest - User is able to see the particular venue (1 0f 1) of search result page
+18:23:31.110 [main] INFO  testCases.TC_005_SearchVenueTest - *** Starting TC_005_SearchVenueTest ***
+18:23:31.160 [main] INFO  testCases.TC_005_SearchVenueTest - User Clicked on Login Link
+18:23:34.163 [main] INFO  testCases.TC_005_SearchVenueTest - User enter valid Email & Password details
+18:23:34.625 [main] INFO  testCases.TC_005_SearchVenueTest - User Clicked on Login Button
+18:23:34.625 [main] INFO  testCases.TC_005_SearchVenueTest - User Successfully logged in My Account Page
+18:23:34.637 [main] INFO  testCases.TC_005_SearchVenueTest - Type any venue name in search box
+18:23:37.519 [main] INFO  testCases.TC_005_SearchVenueTest - Click on Search button
+18:23:42.664 [main] INFO  testCases.TC_005_SearchVenueTest - User navigated to search page result
+18:23:42.664 [main] INFO  testCases.TC_005_SearchVenueTest - User clicked on Distance Dropdown
+18:23:43.454 [main] INFO  testCases.TC_005_SearchVenueTest - User clicked on No Limits value from Distance Dropdown
+18:23:48.457 [main] INFO  testCases.TC_005_SearchVenueTest - User is able to see the particular venue (1 0f 1) of search result page
+18:24:44.093 [main] INFO  testCases.TC_005_SearchVenueTest - *** Starting TC_005_SearchVenueTest ***
+18:24:44.182 [main] INFO  testCases.TC_005_SearchVenueTest - User Clicked on Login Link
+18:24:47.390 [main] INFO  testCases.TC_005_SearchVenueTest - User enter valid Email & Password details
+18:24:48.404 [main] INFO  testCases.TC_005_SearchVenueTest - User Clicked on Login Button
+18:24:48.405 [main] INFO  testCases.TC_005_SearchVenueTest - User Successfully logged in My Account Page
+18:24:48.408 [main] INFO  testCases.TC_005_SearchVenueTest - Type any venue name in search box
+18:24:54.868 [main] INFO  testCases.TC_005_SearchVenueTest - Click on Search button
+18:25:00.160 [main] INFO  testCases.TC_005_SearchVenueTest - User navigated to search page result
+18:25:00.161 [main] INFO  testCases.TC_005_SearchVenueTest - User clicked on Distance Dropdown
+18:25:01.272 [main] INFO  testCases.TC_005_SearchVenueTest - User clicked on No Limits value from Distance Dropdown
+18:25:06.273 [main] INFO  testCases.TC_005_SearchVenueTest - User is able to see the particular venue (1 0f 1) of search result page
+18:38:18.714 [main] INFO  testCases.TC_005_SearchVenueTest - *** Starting TC_005_SearchVenueTest ***
+18:38:18.772 [main] INFO  testCases.TC_005_SearchVenueTest - User Clicked on Login Link
+18:38:22.595 [main] INFO  testCases.TC_005_SearchVenueTest - User enter valid Email & Password details
+18:38:23.142 [main] INFO  testCases.TC_005_SearchVenueTest - User Clicked on Login Button
+18:38:23.142 [main] INFO  testCases.TC_005_SearchVenueTest - User Successfully logged in My Account Page
+18:38:23.150 [main] INFO  testCases.TC_005_SearchVenueTest - Type any venue name in search box
+18:38:26.640 [main] INFO  testCases.TC_005_SearchVenueTest - Click on Search button
+18:38:31.800 [main] INFO  testCases.TC_005_SearchVenueTest - User navigated to search page result
+18:38:31.800 [main] INFO  testCases.TC_005_SearchVenueTest - User clicked on Distance Dropdown
+18:38:32.675 [main] INFO  testCases.TC_005_SearchVenueTest - User clicked on No Limits value from Distance Dropdown
+18:38:37.680 [main] INFO  testCases.TC_005_SearchVenueTest - User is able to see the particular venue (1 0f 1) of search result page
+18:39:17.498 [main] INFO  testCases.TC_005_SearchVenueTest - *** Starting TC_005_SearchVenueTest ***
+18:39:17.540 [main] INFO  testCases.TC_005_SearchVenueTest - User Clicked on Login Link
+18:39:21.149 [main] INFO  testCases.TC_005_SearchVenueTest - User enter valid Email & Password details
+18:39:22.096 [main] INFO  testCases.TC_005_SearchVenueTest - User Clicked on Login Button
+18:39:22.096 [main] INFO  testCases.TC_005_SearchVenueTest - User Successfully logged in My Account Page
+18:39:22.099 [main] INFO  testCases.TC_005_SearchVenueTest - Type any venue name in search box
+18:39:25.082 [main] INFO  testCases.TC_005_SearchVenueTest - Click on Search button
+18:39:30.505 [main] INFO  testCases.TC_005_SearchVenueTest - User navigated to search page result
+18:39:30.505 [main] INFO  testCases.TC_005_SearchVenueTest - User clicked on Distance Dropdown
+18:39:31.677 [main] INFO  testCases.TC_005_SearchVenueTest - User clicked on No Limits value from Distance Dropdown
+18:39:36.687 [main] INFO  testCases.TC_005_SearchVenueTest - User is able to see the particular venue (1 0f 1) of search result page
+18:39:42.099 [main] INFO  testCases.TC_005_SearchVenueTest - *** Finished TC_005_SearchVenueTest ***
+18:44:37.856 [main] INFO  testCases.TC_005_SearchVenueTest - *** Starting TC_005_SearchVenueTest ***
+18:44:37.966 [main] INFO  testCases.TC_005_SearchVenueTest - User Clicked on Login Link
+18:44:41.865 [main] INFO  testCases.TC_005_SearchVenueTest - User enter valid Email & Password details
+18:44:42.733 [main] INFO  testCases.TC_005_SearchVenueTest - User Clicked on Login Button
+18:44:42.734 [main] INFO  testCases.TC_005_SearchVenueTest - User Successfully logged in My Account Page
+18:44:42.745 [main] INFO  testCases.TC_005_SearchVenueTest - Type any venue name in search box
+18:44:45.856 [main] INFO  testCases.TC_005_SearchVenueTest - Click on Search button
+18:44:50.986 [main] INFO  testCases.TC_005_SearchVenueTest - User navigated to search page result
+18:44:50.986 [main] INFO  testCases.TC_005_SearchVenueTest - User clicked on Distance Dropdown
+18:44:52.875 [main] INFO  testCases.TC_005_SearchVenueTest - User clicked on No Limits value from Distance Dropdown
+18:44:57.882 [main] INFO  testCases.TC_005_SearchVenueTest - User is able to see the particular venue (1 0f 1) of search result page
+18:45:03.442 [main] INFO  testCases.TC_005_SearchVenueTest - User is clicked on the particular venue, After that it's navigate to view full venue detail page
+18:45:03.442 [main] INFO  testCases.TC_005_SearchVenueTest - *** Finished TC_005_SearchVenueTest ***
+18:52:41.475 [main] INFO  testCases.TC_005_SearchVenueTest - *** Starting TC_005_SearchVenueTest ***
+18:52:41.884 [main] INFO  testCases.TC_005_SearchVenueTest - User Clicked on Login Link
+18:52:47.704 [main] INFO  testCases.TC_005_SearchVenueTest - User enter valid Email & Password details
+18:52:48.784 [main] INFO  testCases.TC_005_SearchVenueTest - User Clicked on Login Button
+18:52:48.785 [main] INFO  testCases.TC_005_SearchVenueTest - User Successfully logged in My Account Page
+18:52:48.794 [main] INFO  testCases.TC_005_SearchVenueTest - Type any venue name in search box
+18:52:52.791 [main] INFO  testCases.TC_005_SearchVenueTest - Click on Search button
+18:52:58.012 [main] INFO  testCases.TC_005_SearchVenueTest - User navigated to search page result
+18:52:58.013 [main] INFO  testCases.TC_005_SearchVenueTest - User clicked on Distance Dropdown
+18:52:58.895 [main] INFO  testCases.TC_005_SearchVenueTest - User clicked on No Limits value from Distance Dropdown
+18:53:03.903 [main] INFO  testCases.TC_005_SearchVenueTest - User is able to see the particular venue (1 0f 1) of search result page
+18:53:09.413 [main] INFO  testCases.TC_005_SearchVenueTest - User is clicked on the particular venue, After that it's navigate to view full venue detail page
+18:53:09.413 [main] INFO  testCases.TC_005_SearchVenueTest - *** Finished TC_005_SearchVenueTest ***

@@ -19,7 +19,7 @@
         <!-- report name - displayed at top-nav -->
         <reportName>Testing Report
          <![CDATA[
-                <img src='C:\Java_Eclipse\CBXProject_V3\Logo\cbxLogo.png'/>
+                <img src='C:\IntelliJ Idea WorkSpace\CBXProject_V3\Logo\cbxLogo.png'/>
             ]]>
         </reportName>
         
